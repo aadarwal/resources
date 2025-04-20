@@ -19,3 +19,5 @@ https://cs229.stanford.edu/main_notes.pdf - Machine Learning
 https://cs230.stanford.edu/syllabus/ - Deep Learning 
 https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE - Illya AI
 
+
+https://docs.exa.ai/reference/crawling-subpages-with-exa
