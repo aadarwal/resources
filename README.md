@@ -3,6 +3,7 @@
 **physics**
 Tong Quantum Mechanics 
 https://github.com/UChicagoPhysics/PHYS250.git - Computational Physics
+https://falstad.com/mathphysics.html - Applets Experiments
 
 **langauge**
 https://pll.harvard.edu/course/cs50-introduction-computer-science Harvard CS50
