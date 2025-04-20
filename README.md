@@ -1,11 +1,11 @@
-#Training Data
+## Training Data
 
 **physics**
 Tong Quantum Mechanics 
 https://github.com/UChicagoPhysics/PHYS250.git - Computational Physics
 
 **langauge**
-https://pll.harvard.edu/course/cs50-introduction-computer-science Harvard CS50 //
+https://pll.harvard.edu/course/cs50-introduction-computer-science Harvard CS50
 https://cs106a.stanford.edu - Programming 1   
 https://web.stanford.edu/class/cs106b/ - Programming 2 
 https://web.stanford.edu/class/cs107/ - OS
