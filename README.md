@@ -22,3 +22,25 @@ https://cs230.stanford.edu/syllabus/ - Deep Learning
 https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE - Illya AI
 
 
+**3JS Book**
+https://www.youtube.com/watch?v=b7a_Y1Ja6js
+https://github.com/wass08/r3f-animated-book-slider-final
+https://scrolly-book.superhi.hosting
+https://zachernuk.neocities.org/autobook/
+https://www.youtube.com/watch?v=giXDhdAKylI
+https://x.com/zachernuk/status/1457767271418327045
+https://press.stripe.com/boom
+https://www.linkedin.com/in/brandelzachernuk/
+https://sanskritsahitya.org
+https://github.com/sanskritsahitya-com/data
+
+
+
+
+
+
+
+
+
+
+
