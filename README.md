@@ -11,7 +11,8 @@ Quantum Mechanics:
 3. Principles of Quantum Mechanics, R Shankar, Textbook, 
 4. Quantum Mechanics, David Tong, Compiled Notes,
 5. Math for Quantum Mechnics, Will Golding, Chicago MATH 18600
-6. IB Physics Higher Level, Tsokos, Textbook
+6. Essence of Linear Algebra, 3B1B, Video Series, 
+7. IB Physics Higher Level, Tsokos, Textbook
 
 Classical Mechanics 
 1. IB Physics Higher Level, Tsokos, Textbook,
