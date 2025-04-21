@@ -6,7 +6,8 @@ Quantum Mechanics:
 1. Lecture Series on Quantum Physics, Prof.V.Balakrishnan, Video Lectures, https://youtube.com/playlist?list=PL0F530F3BAF8C6FCC&si=jxO12bnFzj7oxyPh
 2. A Modern Introduction to Quantum Mechnaics, James Townsend, Textbook, 
 3. Principles of Quantum Mechanics, R Shankar, Textbook, 
-4. Quantum Mechanics, David Tong, Compiled Notes, 
+4. Quantum Mechanics, David Tong, Compiled Notes,
+5. Math for Quantum Mechnics, Will Golding, Chicago MATH 18600
 
 
 https://falstad.com/mathphysics.html - Applets Experiments
