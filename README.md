@@ -7,6 +7,7 @@ This is everything that I have learned in terms of formal academic work througho
 
 Quantum Mechanics: 
 1. Lecture Series on Quantum Physics, Prof.V.Balakrishnan, Video Lectures, https://youtube.com/playlist?list=PL0F530F3BAF8C6FCC&si=jxO12bnFzj7oxyPh
+I think this might be the most incredible way to learn quantum mechanics, because it is basically all of the math and physics approaches that I had to get across a bunch of classes at Chicago collapsed into incredible and great teaching. 
 2. A Modern Introduction to Quantum Mechnaics, James Townsend, Textbook, 
 3. Principles of Quantum Mechanics, R Shankar, Textbook, 
 4. Quantum Mechanics, David Tong, Compiled Notes,
