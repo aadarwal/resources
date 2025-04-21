@@ -1,9 +1,10 @@
 ## Training_Data_Formalised_Knowledge
 This is everything that I have learned in terms of formal academic work throughout my life and it is what consists of the primary knowledge framework for yatharth. 
+I think anyone can learn this stuff are and while I have never really placed importance on doing well in classes I think this is an important method for having good training data for solving research problems and working on new ideas, which imo are the most beautiful reasons to learn this stuff in the first place. 
 
 **Physics**
 
-*Typical Classwork* Finsihed by Sophomore Year
+*Typical Classwork* (by Sophomore Year)
 
 Quantum Mechanics: 
 1. Lecture Series on Quantum Physics, Prof.V.Balakrishnan, Video Lectures, https://youtube.com/playlist?list=PL0F530F3BAF8C6FCC&si=jxO12bnFzj7oxyPh
@@ -14,16 +15,19 @@ I think this might be the most incredible way to learn quantum mechanics, becaus
 6. Essence of Linear Algebra, 3B1B, Video Series, 
 7. IB Physics Higher Level, Tsokos, Textbook
 
-Classical Mechanics 
-1. IB Physics Higher Level, Tsokos, Textbook,
-2. Introduction to Mechanics, Klepner and Kolenkov, Textbook,
-3. Classical Mechanics, John Taylor, Textbook,
+Classical Mechanics: 
+1. Introduction to Mechanics, Klepner and Kolenkov, Textbook, 
+2. Classical Mechanics, John Taylor, Textbook,
+3. Mechanics - Volume 1, Landau & Lifshitz, Textbook,
+4. Classical Mechanics, Leonard Susskind, Summary Book, 
+5. IB Physics Higher Level, Tsokos, Textbook,
 
-Electricity and Magnetism: 
+E&M:
 2. Electricity and Magnetism, Edward Purcell, Textbook,
 3. Introduction to Electrodynaics, David Griffiths, Textbook, 
 4. Lectures on E&M, Vipul Mehra, Video Lectures, 
 5. Div Grad Curl and All That, 
+6. Special Relativity and Classical Field Theory, Leonard Susskind, Summary Book, 
 6. IB Physics Higher Level, Tsokos, Textbook,
 
 Math 
@@ -37,22 +41,31 @@ Math
 8. IB Math Higher Level,
 9. IB Fabio Textbook 
 
-
-*Concentration*
+*Elective Classes* (by Sophomore Year) 
 
 Statistical Mechanics: 
 1. Introduction to Thermal Physics, Daniel Schroeder, Textbook,
 
-Electronics
-1. Integrated Microelectronics 
-2. Solid State Physics
+Electronics: 
+1. Integrated Microelectronics, Del Alamo, Textbook, 
+2. Solid State Electronic Devices, Streetman & Bannerjee, Textbook,
+3. Concise Physics for ICSE Grade IX & X, RP Goyal, Textbook, 
 
-Optics
-1. 
+Optics: 
+1. Optics, Eugene Hecht, 
 2. IB Physics Higher Level, Tsokos, Textbook,
+3. Concise Physics for ICSE Grade IX & X, RP Goyal, Textbook, 
 
-*Research*
+*Research* (Spread out) 
 
+Quantum Optics: 
+1. Introductory Quantum Optics, 
+
+Photonics: 
+1. Silicon Photonics Design, Chrostowski, Textbook,
+2. TFLN Review, 
+
+*Projects* (Spread Out) 
 
 https://falstad.com/mathphysics.html - Applets Experiments
 https://huggingface.co/StyleDistance/styledistance
