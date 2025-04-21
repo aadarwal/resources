@@ -1,8 +1,14 @@
-## Training Data
+## Training_Data_formalised_knowledge
+This is everything that I have learned in terms of formal academic work throughout my life and it is what consists of the primary knowledge framework for yatharth. 
 
-**physics**
-Tong Quantum Mechanics 
-https://github.com/UChicagoPhysics/PHYS250.git - Computational Physics
+**Physics**
+Quantum Mechanics: 
+1. Lecture Series on Quantum Physics, Prof.V.Balakrishnan, Video Lectures, https://youtube.com/playlist?list=PL0F530F3BAF8C6FCC&si=jxO12bnFzj7oxyPh
+2. A Modern Introduction to Quantum Mechnaics, James Townsend, Textbook, 
+3. Principles of Quantum Mechanics, R Shankar, Textbook, 
+4. Quantum Mechanics, David Tong, Compiled Notes, 
+
+
 https://falstad.com/mathphysics.html - Applets Experiments
 https://huggingface.co/StyleDistance/styledistance
 
