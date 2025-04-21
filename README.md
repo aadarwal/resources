@@ -1,6 +1,6 @@
 ## Training_Data
 This is everything that I have learned in terms of formal academic work throughout my life and it is what consists of the primary knowledge framework for yatharth. 
-I think anyone can learn this stuff are and while I have never really placed importance on doing well in classes I think this is an important method for having good training data for solving research problems and working on new ideas, which imo are the most beautiful reasons to learn this stuff in the first place. 
+I think anyone can learn this stuff are and while I have never really placed importance on doing well in classes I think this is an important method for having good training data for solving research problems and working on new ideas, which imo are the most beautiful reasons to learn this stuff in the first place. This is a mix of memorised information and reference information, precisely what I thoink is the point of training data for humans. 
 
 ## Formalised Knowledge
 
@@ -65,7 +65,10 @@ Quantum Optics:
 
 Photonics: 
 1. Silicon Photonics Design, Chrostowski, Textbook,
-2. TFLN Review, 
+2. TFLN Review,
+
+Misc 
+1. What is Life and Mind and Matter, Erwin Schrodinger, Book,
 
 *Projects* (Spread Out) 
 
