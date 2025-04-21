@@ -1,6 +1,8 @@
-## Training_Data_Formalised_Knowledge
+## Training_Data
 This is everything that I have learned in terms of formal academic work throughout my life and it is what consists of the primary knowledge framework for yatharth. 
 I think anyone can learn this stuff are and while I have never really placed importance on doing well in classes I think this is an important method for having good training data for solving research problems and working on new ideas, which imo are the most beautiful reasons to learn this stuff in the first place. 
+
+## Formalised Knowledge
 
 **Physics**
 
@@ -23,11 +25,11 @@ Classical Mechanics:
 5. IB Physics Higher Level, Tsokos, Textbook,
 
 E&M:
-2. Electricity and Magnetism, Edward Purcell, Textbook,
-3. Introduction to Electrodynaics, David Griffiths, Textbook, 
-4. Lectures on E&M, Vipul Mehra, Video Lectures, 
-5. Div Grad Curl and All That, 
-6. Special Relativity and Classical Field Theory, Leonard Susskind, Summary Book, 
+1. Electricity and Magnetism, Edward Purcell, Textbook,
+2. Introduction to Electrodynaics, David Griffiths, Textbook,
+3. Lectures on E&M, Vipul Mehra, Video Lectures,
+4. Div Grad Curl and All That,
+5. Special Relativity and Classical Field Theory, Leonard Susskind, Summary Book,
 6. IB Physics Higher Level, Tsokos, Textbook,
 
 Math 
