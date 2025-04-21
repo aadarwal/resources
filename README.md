@@ -55,7 +55,8 @@ Statistical Mechanics:
 Electronics: 
 1. Integrated Microelectronics, Del Alamo, Textbook, 
 2. Solid State Electronic Devices, Streetman & Bannerjee, Textbook,
-3. Concise Physics for ICSE Grade IX & X, RP Goyal, Textbook, 
+3. Electronics Lab, UChicago, https://physlab-wiki.com/phylabs/lab_courses/phys-226-wiki-home
+4. Concise Physics for ICSE Grade IX & X, RP Goyal, Textbook,
 
 Optics: 
 1. Optics, Eugene Hecht, 
