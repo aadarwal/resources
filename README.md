@@ -3,7 +3,7 @@ This is everything that I have learned in terms of formal academic work througho
 
 **Physics**
 
-*Typical Classwork*
+*Typical Classwork* Finsihed by Sophomore Year
 
 Quantum Mechanics: 
 1. Lecture Series on Quantum Physics, Prof.V.Balakrishnan, Video Lectures, https://youtube.com/playlist?list=PL0F530F3BAF8C6FCC&si=jxO12bnFzj7oxyPh
@@ -11,7 +11,6 @@ I think this might be the most incredible way to learn quantum mechanics, becaus
 2. A Modern Introduction to Quantum Mechnaics, James Townsend, Textbook, 
 3. Principles of Quantum Mechanics, R Shankar, Textbook, 
 4. Quantum Mechanics, David Tong, Compiled Notes,
-5. Math for Quantum Mechnics, Will Golding, Chicago MATH 18600
 6. Essence of Linear Algebra, 3B1B, Video Series, 
 7. IB Physics Higher Level, Tsokos, Textbook
 
@@ -27,6 +26,18 @@ Electricity and Magnetism:
 5. Div Grad Curl and All That, 
 6. IB Physics Higher Level, Tsokos, Textbook,
 
+Math 
+1. Linear Algebra and Series,, Chicago MATH 18300, 
+2. Multivariable Calculus, , Chicago MATH 18400, 
+3. Ordinary and Parial Diff Equations, Hao Young, Chicago MATH 18500, 
+4. Abstract Linear Algebra for Quantum Mechanics, William Golding, MATH 18600, 
+5. Mathematical Methods for the Physical Sciences, Boas, Textbook,
+6. Introduction to Proofs in Analsysis, Yao, Chicago MATH 15900, 
+7. Tools of the Trade, , Textbook
+8. IB Math Higher Level,
+9. IB Fabio Textbook 
+
+
 *Concentration*
 
 Statistical Mechanics: 
@@ -40,10 +51,7 @@ Optics
 1. 
 2. IB Physics Higher Level, Tsokos, Textbook,
 
-Math 
-1. Mathematical Methods for the Physical Sciences, Boas, Textbook, 
-2. Tools of the Trade
-3. IB Math Higher Level, 
+*Research*
 
 
 https://falstad.com/mathphysics.html - Applets Experiments
