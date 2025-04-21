@@ -2,6 +2,8 @@
 This is everything that I have learned in terms of formal academic work throughout my life and it is what consists of the primary knowledge framework for yatharth. 
 I think anyone can learn this stuff are and while I have never really placed importance on doing well in classes I think this is an important method for having good training data for solving research problems and working on new ideas, which imo are the most beautiful reasons to learn this stuff in the first place. This is a mix of memorised information and reference information, precisely what I thoink is the point of training data for humans. 
 
+For some context here is a picture of my desktop which is basically all of this training data that I have gained in like a visual space. The point here is to be able to formalise a search mechanism through all of this data for Yatharth to be able to go through well and be able to respond specifically with citations from this dataset. 
+
 ## Formalised Knowledge
 
 **Physics**
