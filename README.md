@@ -4,6 +4,8 @@ I think anyone can learn this stuff are and while I have never really placed imp
 
 For some context here is a picture of my desktop which is basically all of this training data that I have gained in like a visual space. The point here is to be able to formalise a search mechanism through all of this data for Yatharth to be able to go through well and be able to respond specifically with citations from this dataset. 
 
+David Tong's lecture series are a good resource that i found towards the end of my time as an undergrad and I think could be used quite well as glancing summary more than anything else. 
+
 ## Formalised Knowledge
 
 **Physics**
