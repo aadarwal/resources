@@ -4,7 +4,7 @@ I think anyone can learn this stuff are and while I have never really placed imp
 
 For some context here is a picture of my desktop which is basically all of this training data that I have gained in like a visual space. The point here is to be able to formalise a search mechanism through all of this data for Yatharth to be able to go through well and be able to respond specifically with citations from this dataset. 
 
-David Tong's lecture series are a good resource that i found towards the end of my time as an undergrad and I think could be used quite well as glancing summary more than anything else. 
+David Tong's lecture series are a good resource that i found towards the end of my time as an undergrad and I think could be used quite well as glancing summary more than anything else... need to maybe write a bit more about this kind of learning thing. 
 
 ## Formalised Knowledge
 
@@ -97,6 +97,8 @@ https://cs230.stanford.edu/syllabus/ - Deep Learning
 https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE - Illya AI
 
 ANSI Common LISP, Paul Graham, 
+
+**Philosophy**
 
 **3JS Book**
 https://www.youtube.com/watch?v=b7a_Y1Ja6js
