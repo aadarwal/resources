@@ -17,7 +17,7 @@ Quantum Mechanics:
 I think this might be the most incredible way to learn quantum mechanics, because it is basically all of the math and physics approaches that I had to get across a bunch of classes at Chicago collapsed into incredible and great teaching. 
 2. A Modern Introduction to Quantum Mechnaics, James Townsend, Textbook, 
 3. Principles of Quantum Mechanics, R Shankar, Textbook, 
-4. Quantum Mechanics, David Tong, Compiled Notes,
+4. Lectures on Quantum Mechanics, David Tong, Compiled Notes,
 6. Essence of Linear Algebra, 3B1B, Video Series, 
 7. IB Physics Higher Level, Tsokos, Textbook
 
@@ -51,6 +51,7 @@ Math
 
 Statistical Mechanics: 
 1. Introduction to Thermal Physics, Daniel Schroeder, Textbook,
+2. Lectures on Statistical Mechanics, David Tong, Compiled Notes
 
 Electronics: 
 1. Integrated Microelectronics, Del Alamo, Textbook, 
